@@ -85,7 +85,7 @@
 					"raw": "{\r\n  \"refreshToken\": \"{{refresh-token}}\"\r\n}"
 				},
 				"url": {
-					"raw": "{{urll}}/callcenters/{{ccid}}/users/tokens/refresh",
+					"raw": "{{url}}/callcenters/{{ccid}}/users/tokens/refresh",
 					"host": [
 						"{{url}}"
 					],
@@ -121,7 +121,7 @@
 				"header": [
 					{
 						"key": "ccid",
-						"value": "254"
+						"value": "000"
 					},
 					{
 						"key": "campaignid",
