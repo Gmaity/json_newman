@@ -85,7 +85,7 @@
 					"raw": "{\r\n  \"refreshToken\": \"{{refresh-token}}\"\r\n}"
 				},
 				"url": {
-					"raw": "{{url}}/callcenters/{{ccid}}/users/tokens/refresh",
+					"raw": "{{urll}}/callcenters/{{ccid}}/users/tokens/refresh",
 					"host": [
 						"{{url}}"
 					],
